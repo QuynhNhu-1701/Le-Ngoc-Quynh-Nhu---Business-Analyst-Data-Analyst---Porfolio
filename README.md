@@ -2,8 +2,8 @@
 ## About me 👋
 Xin chào mọi người! Tôi là Lê Ngọc Quỳnh Như, sinh viên năm thứ 3 tại Đại học Kinh tế TP.HCM (UEH). Tôi đang tìm kiếm cơ hội để nâng cao kỹ năng và kiến thức trong lĩnh vực DA/BA. Mục tiêu của tôi là phát triển các kỹ năng kỹ thuật như statistical analysis (R, Python,...),  data visualization (Power BI), Requirements Management trong một môi trường uy tín. Với tư duy phân tích và giải quyết vấn đề, tôi tự tin mang lại những thành tích xuất sắc trong các dự án.
 
-Bạn có thể xem thêm thông tin chi tiết trong [**CV**](https://github.com/Yushuii/Yushuii/blob/7bf98ae510590a7b24f59df4fd064b08a58e327d/NGUY%E1%BB%84N%20L%C3%8A%20TH%C3%99Y%20LINH%20-%20Business%20Analyst%20Intern.pdf)). 
-Link cv
+Bạn có thể xem thêm thông tin chi tiết trong [**CV**](https://github.com/QuynhNhu-1701/Le-Ngoc-Quynh-Nhu---Business-Analyst-Data-Analyst---Porfolio/blob/4759031267ba44ffa4e320f7fc33a7f9897aa896/L%C3%AA%20Ng%E1%BB%8Dc%20Qu%E1%BB%B3nh%20Nh%C6%B0%20-%20Th%E1%BB%B1c%20t%E1%BA%ADp%20sinh%20Business%20Analyst.pdf)
+
 
 Repository này được tạo ra để giới thiệu những kỹ năng phân tích và kỹ thuật của tôi (SQL, Research Project, Analytical Skill và các công cụ khác).
 ## Contents
