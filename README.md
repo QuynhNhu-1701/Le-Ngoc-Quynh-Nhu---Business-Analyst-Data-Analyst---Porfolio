@@ -13,7 +13,7 @@ Repository này được tạo ra để giới thiệu những kỹ năng phân 
 * [Contacts](#contacts)
 ## Study Projects
 ### Cơ sở dữ liệu mô phỏng cửa hàng bán lẻ Guardian
-**Repository:** <a href = "https://github.com/Yushuii/Yushuii/tree/cbf3f3a2af009a95c4660a0320b0fd01a49fb64b/Study%20Projects/Data%20Warehouse">
+**Repository:** <a href = "https://github.com/QuynhNhu-1701/Le-Ngoc-Quynh-Nhu---Business-Analyst-Data-Analyst---Porfolio/tree/46dd2e1edf073d4e949cd143f4f0290a324d62e1/Study%20Project/Gi%E1%BA%A3i%20ph%C3%A1p%20kh%C3%A1m%20ch%E1%BB%AFa%20b%E1%BB%87nh%20t%E1%BB%AB%20xa%20Telemedicine">
   <code>data-powerbi-sql-analysis</code></a> <br> 
 **Description:** Kho lưu trữ này chứa các tệp đã được hoàn thành trong môn học Cơ sở dữ liệu nâng cao tại trường đại học bao gồm tác vụ: Tạo cơ sở dữ liệu mô phỏng cửa hàng bán lẻ Guardian, ngoài chức năng kết nối dữ liệu excel cơ bản còn truy vấn MDX nhằm hỗ trợ ra quyết định. Mục tiêu chính là cải thiện khả năng phân tích dựa trên kết quả truy vấn . <br>
 **Code:** <a href = "https://github.com/Yushuii/NGUYEN-LE-THUY-LINH---Business-Analysis-portfolio/blob/d426b48180b4b80f3289b23922f0bcb5c2276916/Study%20Projects/Data%20Warehouse/Source%20Code%20Table.sql">
